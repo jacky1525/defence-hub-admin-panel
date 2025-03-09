@@ -1,0 +1,20 @@
+# Flutter derleme dosyaları
+build/
+ios/Pods/
+android/.gradle/
+android/app/build/
+android/.idea/
+android/local.properties
+
+# IDE dosyaları
+*.iml
+*.swp
+.idea/
+.vscode/
+.DS_Store
+
+# Flutter bağımlılıkları (pubspec.lock Git'e eklenmeli)
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+
